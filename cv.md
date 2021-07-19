@@ -40,6 +40,6 @@ Electrician for the repair and maintenance of electrical equipment in MTP: 01.08
 Minsk State Polytechnic College: **Installation and operation of electrical equipment** 01.09.2015-26.06.2019\
 Belarusian National Technical University: **Industrial heat power engineering** 01.09.2019-nowadays
 ## Languages:
- * Russian
  * Belarusian
+ * Russian
  * English (*learn english in school, college and university*)

@@ -42,4 +42,4 @@ Belarusian National Technical University: **Industrial heat power engineering** 
 ## Languages:
  * Belarusian
  * Russian
- * English (*learn english in school, college and university*)
+ * English

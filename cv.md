@@ -9,6 +9,7 @@ Phone: +375292752905
 **Skill highlights:**
  * HTML
  * MS Office
+ * CSS
 
 **Code example:**
 ```

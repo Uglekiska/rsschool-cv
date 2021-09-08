@@ -10,6 +10,7 @@ Phone: +375292752905
  * HTML
  * MS Office
  * CSS
+ * JS
 
 **Code example:**
 ```

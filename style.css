@@ -11,6 +11,10 @@ body {
 	align-items: stretch;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 .photo {
 	border-radius: 50%;
 	border: 3px solid #f9f4e6;
@@ -68,6 +72,7 @@ header {
 	width: 100%;
 	margin: 0;
 }
+
 button {
 	display: none;
 	background: none;
@@ -75,6 +80,7 @@ button {
 	margin: 20px;
 	z-index: 100;
 }
+
 footer {
 	width: 100%;
 	background-color: #5b5643;
@@ -161,14 +167,20 @@ nav {
 	.active {
 		display: block;
 		position: absolute;
-		background: rgba(0,0,0,0.4);
+		background: rgba(0, 0, 0, 0.4);
 		left: 0;
 		top: 0;
+		max-width: 500px;
+		min-width: 320px;
 	}
-	
+
 	.active nav {
 		flex-direction: column;
 		align-items: flex-start;
+	}
+
+	.active nav p {
+		margin: 20px;
 	}
 
 	body {
